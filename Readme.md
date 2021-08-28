@@ -12,3 +12,5 @@
 
 ![Simposio Vegan](assets/img/simposio.jpg)
 
+
+- Ver más: [Meet&Coffe](https://coffeemeet.netlify.app/index.html)
