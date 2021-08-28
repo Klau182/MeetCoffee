@@ -7,4 +7,4 @@ Tambien existe una segunda página llamada Simposio Vegan que se abre de manera 
 
 ***Simposio Vegan***
 
-![meet&coffee](/..home/clau/Escritorio/BooTcampDesafioLatam/Html/Meet&coffe/assets/img/meet.jpg)
+![meet&coffee](assets/img/meet.jpg)
